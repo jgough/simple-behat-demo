@@ -1,0 +1,14 @@
+{
+    "require": {
+        "behat/behat": "*",
+        "behat/mink": "*",
+        "behat/mink-extension": "*",
+        "behat/mink-goutte-driver": "*",
+        "behat/mink-selenium2-driver": "*",
+        "fabpot/goutte": "*"
+    },
+
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
